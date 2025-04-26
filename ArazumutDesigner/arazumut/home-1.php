@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="zxx">
+
+<html lang="tr">
 
 
 <head>
@@ -95,21 +95,21 @@
                         <div class="container">
                             <div class="mil-banner-content mil-up">
 
-                                <h1 class="mil-muted mil-mb-60">Designing <span class="mil-thin">a Better</span><br> World <span class="mil-thin">Today</span></h1>
+                                <h1 class="mil-muted mil-mb-60">Daha <span class="mil-thin">İyi Bir</span><br> Dünya <span class="mil-thin">İçin Tasarla</span></h1>
                                 <div class="row">
                                     <div class="col-md-7 col-lg-5">
 
-                                        <p class="mil-light-soft mil-mb-60">Welcome to our world of endless imagination and boundless creativity. Together, let's embark on a remarkable journey where dreams become tangible realities.</p>
+                                        <p class="mil-light-soft mil-mb-60">Sizinle birlikte, hayallerimizi somut gerçekliklere dönüştüren, unutulmaz bir yolculuğa başlayalım.</p>
 
                                     </div>
                                 </div>
 
                                 <a href="services.php" class="mil-button mil-arrow-place mil-btn-space">
-                                    <span>What we do</span>
+                                    <span>Neler Yapıyoruz</span>
                                 </a>
 
                                 <a href="portfolio-1.php" class="mil-link mil-muted mil-arrow-place">
-                                    <span>View works</span>
+                                    <span>İşlerimizi Görün</span>
                                 </a>
 
                                 <div class="mil-circle-text">
@@ -142,16 +142,16 @@
                             <div class="col-lg-6 col-xl-5">
 
                                 <div class="mil-mb-90">
-                                    <h2 class="mil-up mil-mb-60">Discover <br>Our <span class="mil-thin">Studio</span></h2>
-                                    <p class="mil-up mil-mb-30">At our design studio, we are a collective of talented individuals ignited by our unwavering passion for transforming ideas into reality. With a harmonious blend of diverse backgrounds and a vast array of skill sets, we join forces to create compelling solutions for our esteemed clients.</p>
+                                    <h2 class="mil-up mil-mb-60">Keşfet <br>Studio'muz</h2>
+                                    <p class="mil-up mil-mb-30">Tasarım studiomuzda, hayallerimizi somut gerçekliklere dönüştürmek için bir araya gelmiş, unutulmaz bir yolculuğa başlayalım. Farklı arkadaşlarımızla, çok çeşitli becerilerimizle birlikte, önemli müşterilerimiz için etkileyici çözümler yaratıyoruz.</p>
 
-                                    <p class="mil-up mil-mb-60">Collaboration is at the heart of what we do. Our team thrives on the synergy that arises when unique perspectives converge, fostering an environment of boundless creativity. By harnessing our collective expertise, we produce extraordinary results that consistently surpass expectations.</p>
+                                    <p class="mil-up mil-mb-60">İşbirliği, ne yapıyoruz için merkezdedir. Takımımız, benzersiz perspektiflerin bir araya gelmesiyle ortaya çıkan birleşik enerjiyle, sınırsız hayal gücünün ortamında çalışır. Topluluk deneyimimizle, beklenenden daha iyi sonuçlar elde ediyoruz.</p>
 
                                     <div class="mil-about-quote">
                                         <div class="mil-avatar mil-up">
                                             <img src="img/faces/customers/2.jpg" alt="Founder">
                                         </div>
-                                        <h6 class="mil-quote mil-up">Passionately Creating <span class="mil-thin">Design Wonders:</span> Unleashing <span class="mil-thin">Boundless Creativity</span></h6>
+                                        <h6 class="mil-quote mil-up">İlgili Tasarım <span class="mil-thin">Müzikleri:</span> <span class="mil-thin">Sınırsız</span> <span class="mil-thin">Hayal Gücü</span></h6>
                                     </div>
                                 </div>
 
@@ -184,7 +184,7 @@
                                 <div class="row">
                                     <div class="col-lg-10">
 
-                                        <span class="mil-suptitle mil-light-soft mil-suptitle-right mil-up">Professionals focused on helping your brand<br> grow and move forward.</span>
+                                        <span class="mil-suptitle mil-light-soft mil-suptitle-right mil-up">Profesyoneller, markanızın<br> büyümesine ve ilerlemesine yardımcı oluyorlar.</span>
 
                                     </div>
                                 </div>
@@ -192,13 +192,13 @@
                                 <div class="mil-complex-text justify-content-center mil-up mil-mb-15">
 
                                     <span class="mil-text-image"><img src="img/photo/2.jpg" alt="team"></span>
-                                    <h2 class="mil-h1 mil-muted mil-center">Unique <span class="mil-thin">Ideas</span></h2>
+                                    <h2 class="mil-h1 mil-muted mil-center">Benzersiz <span class="mil-thin">Fikirler</span></h2>
 
                                 </div>
                                 <div class="mil-complex-text justify-content-center mil-up">
 
-                                    <h2 class="mil-h1 mil-muted mil-center">For Your <span class="mil-thin">Business.</span></h2>
-                                    <a href="services.php" class="mil-services-button mil-button mil-arrow-place"><span>What we do</span></a>
+                                    <h2 class="mil-h1 mil-muted mil-center">İşletmenizin <span class="mil-thin">İçin.</span></h2>
+                                    <a href="services.php" class="mil-services-button mil-button mil-arrow-place"><span>Neler Yapıyoruz</span></a>
 
                                 </div>
                             </div>
@@ -207,8 +207,8 @@
                                 <div class="col-md-6 col-lg-3 mil-services-grid-item p-0">
 
                                     <a href="service.php" class="mil-service-card-sm mil-up">
-                                        <h5 class="mil-muted mil-mb-30">Branding and <br>Identity Design</h5>
-                                        <p class="mil-light-soft mil-mb-30">Our creative agency is a team of professionals focused on helping your brand grow.</p>
+                                        <h5 class="mil-muted mil-mb-30">Marka ve <br>Kimlik Tasarımı</h5>
+                                        <p class="mil-light-soft mil-mb-30">Tasarım studiomuz, markanızın büyümesine ve ilerlemesine yardımcı oluyor.</p>
                                         <div class="mil-button mil-icon-button-sm mil-arrow-place"></div>
                                     </a>
 
@@ -216,8 +216,8 @@
                                 <div class="col-md-6 col-lg-3 mil-services-grid-item p-0">
 
                                     <a href="service.php" class="mil-service-card-sm mil-up">
-                                        <h5 class="mil-muted mil-mb-30">Website Design <br>and Development</h5>
-                                        <p class="mil-light-soft mil-mb-30">Our creative agency is a team of professionals focused on helping your brand grow.</p>
+                                        <h5 class="mil-muted mil-mb-30">Web Tasarımı <br>ve Geliştirme</h5>
+                                        <p class="mil-light-soft mil-mb-30">Tasarım studiomuz, markanızın büyümesine ve ilerlemesine yardımcı oluyor.</p>
                                         <div class="mil-button mil-icon-button-sm mil-arrow-place"></div>
                                     </a>
 
@@ -225,8 +225,8 @@
                                 <div class="col-md-6 col-lg-3 mil-services-grid-item p-0">
 
                                     <a href="service.php" class="mil-service-card-sm mil-up">
-                                        <h5 class="mil-muted mil-mb-30">Advertising and <br>Marketing Campaigns</h5>
-                                        <p class="mil-light-soft mil-mb-30">Our creative agency is a team of professionals focused on helping your brand grow.</p>
+                                        <h5 class="mil-muted mil-mb-30">Reklam ve <br>Pazarlama Kampanyaları</h5>
+                                        <p class="mil-light-soft mil-mb-30">Tasarım studiomuz, markanızın büyümesine ve ilerlemesine yardımcı oluyor.</p>
                                         <div class="mil-button mil-icon-button-sm mil-arrow-place"></div>
                                     </a>
 
@@ -234,8 +234,8 @@
                                 <div class="col-md-6 col-lg-3 mil-services-grid-item p-0">
 
                                     <a href="service.php" class="mil-service-card-sm mil-up">
-                                        <h5 class="mil-muted mil-mb-30">Creative Consulting <br>and Development</h5>
-                                        <p class="mil-light-soft mil-mb-30">Our creative agency is a team of professionals focused on helping your brand grow.</p>
+                                        <h5 class="mil-muted mil-mb-30">Creative <br>Danışmanlık</h5>
+                                        <p class="mil-light-soft mil-mb-30">Tasarım studiomuz, markanızın büyümesine ve ilerlemesine yardımcı oluyor.</p>
                                         <div class="mil-button mil-icon-button-sm mil-arrow-place"></div>
                                     </a>
 
@@ -253,14 +253,14 @@
                             <div class="col-lg-5 col-xl-4">
 
                                 <div class="mil-mb-90">
-                                    <h2 class="mil-up mil-mb-60">Meet <br>Our Team</h2>
-                                    <p class="mil-up mil-mb-30">We are talented individuals who are passionate about bringing ideas to life. With a diverse range of backgrounds and skill sets, we collaborate to produce effective solutions for our clients.</p>
+                                    <h2 class="mil-up mil-mb-60">Takımımızı <br>Tanıyın</h2>
+                                    <p class="mil-up mil-mb-30">Biz, hayallerimizi gerçekleştirmeye çalışan, farklı becerilerimizle birlikte çalışan, etkileyici çözümler üretmek için bir araya gelmiş, benzersiz bir takımdır.</p>
 
-                                    <p class="mil-up mil-mb-60">Together, our creative team is committed to delivering impactful work that exceeds expectations.</p>
+                                    <p class="mil-up mil-mb-60">Birlikte, tasarım takımımız, beklenenden daha iyi çözümler üretmeye çalışıyor.</p>
 
-                                    <div class="mil-up"><a href="team.php" class="mil-button mil-arrow-place mil-mb-60"><span>Read more</span></a></div>
+                                    <div class="mil-up"><a href="team.php" class="mil-button mil-arrow-place mil-mb-60"><span>Daha Fazla Oku</span></a></div>
 
-                                    <h4 class="mil-up"><span class="mil-thin">We</span> delivering <br><span class="mil-thin">exceptional</span> results.</h4>
+                                    <h4 class="mil-up"><span class="mil-thin">Biz</span> etkileyici <br><span class="mil-thin">sonuçlar</span> üretiyoruz.</h4>
                                 </div>
 
                             </div>
@@ -277,7 +277,7 @@
                                                 <div class="mil-description">
                                                     <div class="mil-secrc-text">
                                                         <h5 class="mil-muted mil-mb-5"><a href="home-1.php">Anna Oldman</a></h5>
-                                                        <p class="mil-link mil-light-soft mil-mb-10">Art Director</p>
+                                                        <p class="mil-link mil-light-soft mil-mb-10">Sanat Yöneticisi</p>
                                                         <ul class="mil-social-icons mil-center">
                                                             <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-behance"></i></a></li>
                                                             <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-dribbble"></i></a></li>
@@ -307,14 +307,14 @@
                                         </div>
                                         <div class="col-sm-6">
 
-                                            <p class="mil-mobile-hidden mil-text-sm mil-mb-30" style="height: 30px;"><span class="mil-accent">*</span> The founders of our agency</p>
+                                            <p class="mil-mobile-hidden mil-text-sm mil-mb-30" style="height: 30px;"><span class="mil-accent">*</span> Tasarım studiomuzun kurucuları</p>
 
                                             <div class="mil-team-card mil-up mil-mb-30">
                                                 <img src="img/faces/2.jpg" alt="Team member">
                                                 <div class="mil-description">
                                                     <div class="mil-secrc-text">
                                                         <h5 class="mil-muted mil-mb-5"><a href="home-1.php">Emma Newman</a></h5>
-                                                        <p class="mil-link mil-light-soft mil-mb-10">Founder</p>
+                                                        <p class="mil-link mil-light-soft mil-mb-10">Kurucu</p>
                                                         <ul class="mil-social-icons mil-center">
                                                             <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-behance"></i></a></li>
                                                             <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-dribbble"></i></a></li>
@@ -330,7 +330,7 @@
                                                 <div class="mil-description">
                                                     <div class="mil-secrc-text">
                                                         <h5 class="mil-muted mil-mb-5"><a href="home-1.php">Lisa Trueman</a></h5>
-                                                        <p class="mil-link mil-light-soft mil-mb-10">UI/UX Designer</p>
+                                                        <p class="mil-link mil-light-soft mil-mb-10">UI/UX Tasarımcısı</p>
                                                         <ul class="mil-social-icons mil-center">
                                                             <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-behance"></i></a></li>
                                                             <li><a href="#." target="_blank" class="social-icon"> <i class="fab fa-dribbble"></i></a></li>
@@ -359,12 +359,12 @@
                         <div class="row">
                             <div class="col-lg-10">
 
-                                <span class="mil-suptitle mil-suptitle-right mil-suptitle-dark mil-up">Customer reviews are a valuable source <br>of information for both businesses and consumers.</span>
+                                <span class="mil-suptitle mil-suptitle-right mil-suptitle-dark mil-up">Müşteri yorumları, hem işletmeler hem tüketiciler için değerli bir bilgi kaynağıdır.</span>
 
                             </div>
                         </div>
 
-                        <h2 class="mil-center mil-up mil-mb-60">Customer <span class="mil-thin">Voices:</span> <br>Hear What <span class="mil-thin">They Say!</span></h2>
+                        <h2 class="mil-center mil-up mil-mb-60">Müşteri <span class="mil-thin">Görüşleri:</span> <br>Ne Düşünüyorlar? <span class="mil-thin">!</span></h2>
 
                         <div class="mil-revi-pagination mil-up mil-mb-60"></div>
 
@@ -386,49 +386,49 @@
                                             <div class="mil-review-frame mil-center" data-swiper-parallax="-200" data-swiper-parallax-opacity="0">
                                                 <h5 class="mil-up mil-mb-10">Sarah Newman</h5>
                                                 <p class="mil-mb-5 mil-upper mil-up mil-mb-30">Envato market</p>
-                                                <p class="mil-text-xl mil-up">This creative agency stands out with their exceptional talent and expertise. Their ability to think outside the box and bring unique ideas to life is truly impressive. With meticulous attention to detail, they consistently deliver visually stunning and impactful work.</p>
+                                                <p class="mil-text-xl mil-up">Bu tasarım studiounuz, benzersiz yetenekleri ve uzmanlıklarıyla dikkat çekiyor. Bu yeteneklerinin dışarıda düşünmek ve benzersiz fikirleri hayata geçirmek, gerçekten etkileyici bir iştir. Ayrıca, ayrıntılı bir dikkatle, benzersiz ve etkileyici işleri sürekli olarak sunuyorlar.</p>
                                             </div>
                                         </div>
                                         <div class="swiper-slide">
                                             <div class="mil-review-frame mil-center" data-swiper-parallax="-200" data-swiper-parallax-opacity="0">
                                                 <h5 class="mil-up mil-mb-10">Emma Trueman</h5>
                                                 <p class="mil-mb-5 mil-upper mil-up mil-mb-30">Envato market</p>
-                                                <p class="mil-text-xl mil-up">I had the pleasure of working with this creative agency, and I must say, they truly impressed me. They consistently think outside the box, resulting in impressive and impactful work. I highly recommend this agency for their consistent delivery of exceptional creative solutions.</p>
+                                                <p class="mil-text-xl mil-up">Bu tasarım studiounuz, benzersiz yetenekleri ve uzmanlıklarıyla dikkat çekiyor. Bu yeteneklerinin dışarıda düşünmek ve benzersiz fikirleri hayata geçirmek, gerçekten etkileyici bir iştir. Ayrıca, ayrıntılı bir dikkatle, benzersiz ve etkileyici işleri sürekli olarak sunuyorlar.</p>
                                             </div>
                                         </div>
                                         <div class="swiper-slide">
                                             <div class="mil-review-frame mil-center" data-swiper-parallax="-200" data-swiper-parallax-opacity="0">
                                                 <h5 class="mil-up mil-mb-10">Sarah Newman</h5>
                                                 <p class="mil-mb-5 mil-upper mil-up mil-mb-30">Envato market</p>
-                                                <p class="mil-text-xl mil-up">This creative agency stands out with their exceptional talent and expertise. Their ability to think outside the box and bring unique ideas to life is truly impressive. With meticulous attention to detail, they consistently deliver visually stunning and impactful work.</p>
+                                                <p class="mil-text-xl mil-up">Bu tasarım studiounuz, benzersiz yetenekleri ve uzmanlıklarıyla dikkat çekiyor. Bu yeteneklerinin dışarıda düşünmek ve benzersiz fikirleri hayata geçirmek, gerçekten etkileyici bir iştir. Ayrıca, ayrıntılı bir dikkatle, benzersiz ve etkileyici işleri sürekli olarak sunuyorlar.</p>
                                             </div>
                                         </div>
                                         <div class="swiper-slide">
                                             <div class="mil-review-frame mil-center" data-swiper-parallax="-200" data-swiper-parallax-opacity="0">
                                                 <h5 class="mil-up mil-mb-10">Emma Trueman</h5>
                                                 <p class="mil-mb-5 mil-upper mil-up mil-mb-30">Envato market</p>
-                                                <p class="mil-text-xl mil-up">I had the pleasure of working with this creative agency, and I must say, they truly impressed me. They consistently think outside the box, resulting in impressive and impactful work. I highly recommend this agency for their consistent delivery of exceptional creative solutions.</p>
+                                                <p class="mil-text-xl mil-up">Bu tasarım studiounuz, benzersiz yetenekleri ve uzmanlıklarıyla dikkat çekiyor. Bu yeteneklerinin dışarıda düşünmek ve benzersiz fikirleri hayata geçirmek, gerçekten etkileyici bir iştir. Ayrıca, ayrıntılı bir dikkatle, benzersiz ve etkileyici işleri sürekli olarak sunuyorlar.</p>
                                             </div>
                                         </div>
                                         <div class="swiper-slide">
                                             <div class="mil-review-frame mil-center" data-swiper-parallax="-200" data-swiper-parallax-opacity="0">
                                                 <h5 class="mil-up mil-mb-10">Sarah Newman</h5>
                                                 <p class="mil-mb-5 mil-upper mil-up mil-mb-30">Envato market</p>
-                                                <p class="mil-text-xl mil-up">This creative agency stands out with their exceptional talent and expertise. Their ability to think outside the box and bring unique ideas to life is truly impressive. With meticulous attention to detail, they consistently deliver visually stunning and impactful work.</p>
+                                                <p class="mil-text-xl mil-up">Bu tasarım studiounuz, benzersiz yetenekleri ve uzmanlıklarıyla dikkat çekiyor. Bu yeteneklerinin dışarıda düşünmek ve benzersiz fikirleri hayata geçirmek, gerçekten etkileyici bir iştir. Ayrıca, ayrıntılı bir dikkatle, benzersiz ve etkileyici işleri sürekli olarak sunuyorlar.</p>
                                             </div>
                                         </div>
                                         <div class="swiper-slide">
                                             <div class="mil-review-frame mil-center" data-swiper-parallax="-200" data-swiper-parallax-opacity="0">
                                                 <h5 class="mil-up mil-mb-10">Emma Trueman</h5>
                                                 <p class="mil-mb-5 mil-upper mil-up mil-mb-30">Envato market</p>
-                                                <p class="mil-text-xl mil-up">I had the pleasure of working with this creative agency, and I must say, they truly impressed me. They consistently think outside the box, resulting in impressive and impactful work. I highly recommend this agency for their consistent delivery of exceptional creative solutions.</p>
+                                                <p class="mil-text-xl mil-up">Bu tasarım studiounuz, benzersiz yetenekleri ve uzmanlıklarıyla dikkat çekiyor. Bu yeteneklerinin dışarıda düşünmek ve benzersiz fikirleri hayata geçirmek, gerçekten etkileyici bir iştir. Ayrıca, ayrıntılı bir dikkatle, benzersiz ve etkileyici işleri sürekli olarak sunuyorlar.</p>
                                             </div>
                                         </div>
                                         <div class="swiper-slide">
                                             <div class="mil-review-frame mil-center" data-swiper-parallax="-200" data-swiper-parallax-opacity="0">
                                                 <h5 class="mil-up mil-mb-10">Sarah Newman</h5>
                                                 <p class="mil-mb-5 mil-upper mil-up mil-mb-30">Envato market</p>
-                                                <p class="mil-text-xl mil-up">This creative agency stands out with their exceptional talent and expertise. Their ability to think outside the box and bring unique ideas to life is truly impressive. With meticulous attention to detail, they consistently deliver visually stunning and impactful work.</p>
+                                                <p class="mil-text-xl mil-up">Bu tasarım studiounuz, benzersiz yetenekleri ve uzmanlıklarıyla dikkat çekiyor. Bu yeteneklerinin dışarıda düşünmek ve benzersiz fikirleri hayata geçirmek, gerçekten etkileyici bir iştir. Ayrıca, ayrıntılı bir dikkatle, benzersiz ve etkileyici işleri sürekli olarak sunuyorlar.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -471,12 +471,12 @@
                     <div class="container mil-p-120-60">
                         <div class="row align-items-center mil-mb-30">
                             <div class="col-lg-6 mil-mb-30">
-                                <h3 class="mil-up">Popular Publications:</h3>
+                                <h3 class="mil-up">Popüler Yayınlar:</h3>
                             </div>
                             <div class="col-lg-6 mil-mb-30">
                                 <div class="mil-adaptive-right mil-up">
                                     <a href="blog.php" class="mil-link mil-dark mil-arrow-place">
-                                        <span>View all</span>
+                                        <span>Tümünü Gör</span>
                                     </a>
                                 </div>
                             </div>
@@ -496,7 +496,7 @@
                                         <h4 class="mil-up mil-mb-30">How to Become a Graphic Designer in 10 Simple Steps</h4>
                                         <p class="mil-post-text mil-up mil-mb-30">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius sequi commodi dignissimos optio, beatae, eos necessitatibus nisi. Nam cupiditate consectetur nostrum qui! Repellat natus nulla, nisi aliquid, asperiores impedit tempora sequi est reprehenderit cumque explicabo, dicta. Rem nihil ullam totam ea voluptas quibusdam repudiandae id ut at iure! Totam, a!</p>
                                         <div class="mil-link mil-dark mil-arrow-place mil-up">
-                                            <span>Read more</span>
+                                            <span>Daha Fazla Oku</span>
                                         </div>
                                     </div>
                                 </a>
